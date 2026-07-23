@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+
+
+}
+
+.clock{
+    background: white;
+    padding: 50px 30px;
+    border-radius: 10px;
+}
+
+#time{
+     font-size:50px;
+    font-family:Arial;
+}
+
+#stopwatch{
+    font-size:50px;
+    margin-top:20px;
+}
+
+button{
+    padding:10px 20px;
+    margin:5px;
+    font-size:18px;
+}
+
+#stopwatch{
+    font-size: 50px ;
+    margin-top: 20px;
+}
+
+button{
+    padding:10px 20px;
+    margin:5px;
+    font-size:18px;
+}
+
+
